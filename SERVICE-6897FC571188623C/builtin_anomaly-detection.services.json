@@ -34,9 +34,7 @@
           }
         },
         "loadDrops": {
-          "enabled": true,
-          "loadDropPercent": 50.0,
-          "minutesAbnormalState": 1
+          "enabled": false
         },
         "loadSpikes": {
           "enabled": false
