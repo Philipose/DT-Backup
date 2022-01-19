@@ -4,10 +4,9 @@
       "objectId": "vu9U3hXa3q0AAAABABtidWlsdGluOnByZWZlcmVuY2VzLnByaXZhY3kAC0FQUExJQ0FUSU9OABBFQTdDNEI1OUYyN0Q0M0VCACQxMDAzMDJhZi01MDNkLTM0ZGItYjBmZi1hNDQyODg5ODcyZjC-71TeFdrerQ",
       "value": {
         "masking": {
-          "ipAddressMaskingEnabled": true,
-          "ipAddressMasking": "all",
-          "personalDataUriMaskingEnabled": true,
-          "userActionMaskingEnabled": true
+          "ipAddressMaskingEnabled": false,
+          "personalDataUriMaskingEnabled": false,
+          "userActionMaskingEnabled": false
         },
         "userTracking": {
           "persistentCookieEnabled": false
