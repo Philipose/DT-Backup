@@ -10,7 +10,7 @@
           "userActionMaskingEnabled": false
         },
         "userTracking": {
-          "persistentCookieEnabled": false
+          "persistentCookieEnabled": true
         },
         "dataCollection": {
           "optInModeEnabled": false
