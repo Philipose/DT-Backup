@@ -6,14 +6,14 @@
         "masking": {
           "ipAddressMaskingEnabled": true,
           "ipAddressMasking": "all",
-          "personalDataUriMaskingEnabled": false,
-          "userActionMaskingEnabled": false
+          "personalDataUriMaskingEnabled": true,
+          "userActionMaskingEnabled": true
         },
         "userTracking": {
-          "persistentCookieEnabled": true
+          "persistentCookieEnabled": false
         },
         "dataCollection": {
-          "optInModeEnabled": false
+          "optInModeEnabled": true
         },
         "doNotTrack": {
           "complyWithDoNotTrack": true,
