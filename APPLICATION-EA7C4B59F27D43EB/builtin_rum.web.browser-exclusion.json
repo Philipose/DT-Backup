@@ -3,14 +3,7 @@
     {
       "objectId": "vu9U3hXa3q0AAAABACFidWlsdGluOnJ1bS53ZWIuYnJvd3Nlci1leGNsdXNpb24AC0FQUExJQ0FUSU9OABBFQTdDNEI1OUYyN0Q0M0VCACQ5OGY5NWRmOC1hYTkxLTNmNjUtYjQyMi1jM2VhOWYxZTBkNWG-71TeFdrerQ",
       "value": {
-        "browserExclusionList": [
-          {
-            "browserName": "OPERA",
-            "versionComparator": "GREATER_OR_EQUAL",
-            "version": 0,
-            "platform": "ALL"
-          }
-        ],
+        "browserExclusionList": [],
         "browserExclusionInclude": false
       }
     }
