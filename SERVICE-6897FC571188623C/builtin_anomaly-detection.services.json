@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "objectId": "vu9U3hXa3q0AAAABACJidWlsdGluOmFub21hbHktZGV0ZWN0aW9uLnNlcnZpY2VzAAdTRVJWSUNFABA2ODk3RkM1NzExODg2MjNDACQzZTA5MWFkNC1jZDE3LTNlMzItYmYxZi1hYmM2ZTE2MDMyMjW-71TeFdrerQ",
+      "value": {
+        "responseTime": {
+          "enabled": true,
+          "detectionMode": "auto",
+          "autoDetection": {
+            "responseTimeAll": {
+              "degradationMilliseconds": 100.0,
+              "degradationPercent": 50.0
+            },
+            "responseTimeSlowest": {
+              "slowestDegradationMilliseconds": 1000.0,
+              "slowestDegradationPercent": 100.0
+            },
+            "overAlertingProtection": {
+              "requestsPerMinute": 10.0,
+              "minutesAbnormalState": 1
+            }
+          }
+        },
+        "failureRate": {
+          "enabled": true,
+          "detectionMode": "auto",
+          "autoDetection": {
+            "absoluteIncrease": 0.0,
+            "relativeIncrease": 50.0,
+            "overAlertingProtection": {
+              "requestsPerMinute": 10.0,
+              "minutesAbnormalState": 1
+            }
+          }
+        },
+        "loadDrops": {
+          "enabled": false
+        },
+        "loadSpikes": {
+          "enabled": true,
+          "loadSpikePercent": 200.0,
+          "minutesAbnormalState": 1
+        }
+      }
+    }
+  ],
+  "totalCount": 1,
+  "pageSize": 100
+}
