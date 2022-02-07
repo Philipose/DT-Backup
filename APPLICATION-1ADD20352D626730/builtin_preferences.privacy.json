@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "objectId": "vu9U3hXa3q0AAAABABtidWlsdGluOnByZWZlcmVuY2VzLnByaXZhY3kAC0FQUExJQ0FUSU9OABAxQUREMjAzNTJENjI2NzMwACRiOWQ2NWJjOC0wNDI3LTM4MDYtOTliYi1jZTdhOGZjNmU3ZTG-71TeFdrerQ",
+      "value": {
+        "masking": {
+          "ipAddressMaskingEnabled": true,
+          "ipAddressMasking": "all",
+          "personalDataUriMaskingEnabled": false,
+          "userActionMaskingEnabled": false
+        },
+        "userTracking": {
+          "persistentCookieEnabled": false
+        },
+        "dataCollection": {
+          "optInModeEnabled": true
+        },
+        "doNotTrack": {
+          "complyWithDoNotTrack": true,
+          "doNotTrack": "anonymous"
+        }
+      }
+    }
+  ],
+  "totalCount": 1,
+  "pageSize": 100
+}
