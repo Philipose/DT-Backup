@@ -13,7 +13,7 @@
           "persistentCookieEnabled": false
         },
         "dataCollection": {
-          "optInModeEnabled": false
+          "optInModeEnabled": true
         },
         "doNotTrack": {
           "complyWithDoNotTrack": true,
