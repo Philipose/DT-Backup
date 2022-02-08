@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "objectId": "vu9U3hXa3q0AAAABABdidWlsdGluOm1ldHJpYy5tZXRhZGF0YQAGbWV0cmljACpleHQ6dGVjaC5BdXRvbWF0ZWRfQ29uZmlndXJhdGlvbl9BdWRpdC5ydHQAJGU5ZjczM2JkLTA2MTYtMzMyNC04Y2UxLWExZTdhYTU4YzI4Ob7vVN4V2t6t",
+      "value": {
+        "displayName": "Round-trip time",
+        "unit": "MilliSecond",
+        "dimensions": [],
+        "tags": []
+      }
+    }
+  ],
+  "totalCount": 1,
+  "pageSize": 100
+}
