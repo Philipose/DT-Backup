@@ -5,7 +5,7 @@
       "value": {
         "masking": {
           "ipAddressMaskingEnabled": true,
-          "ipAddressMasking": "all",
+          "ipAddressMasking": "public",
           "personalDataUriMaskingEnabled": false,
           "userActionMaskingEnabled": false
         },
@@ -13,7 +13,7 @@
           "persistentCookieEnabled": false
         },
         "dataCollection": {
-          "optInModeEnabled": true
+          "optInModeEnabled": false
         },
         "doNotTrack": {
           "complyWithDoNotTrack": true,
