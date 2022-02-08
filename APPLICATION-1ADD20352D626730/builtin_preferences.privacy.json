@@ -5,7 +5,7 @@
       "value": {
         "masking": {
           "ipAddressMaskingEnabled": true,
-          "ipAddressMasking": "public",
+          "ipAddressMasking": "all",
           "personalDataUriMaskingEnabled": false,
           "userActionMaskingEnabled": false
         },
