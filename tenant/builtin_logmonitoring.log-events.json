@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "objectId": "vu9U3hXa3q0AAAABACBidWlsdGluOmxvZ21vbml0b3JpbmcubG9nLWV2ZW50cwAGdGVuYW50AAZ0ZW5hbnQAJDZiMzg3MzJlLThkZGEtNDFjYS1hZTY2LTFkNzU2MjgyNzgyZr7vVN4V2t6t",
+      "value": {
+        "enabled": true,
+        "summary": "Default Kubernetes Log Events",
+        "query": "event.type=\"k8s\"",
+        "eventTemplate": {
+          "title": "{content}",
+          "description": "",
+          "eventType": "INFO",
+          "metadata": [
+            {
+              "metadataKey": "dt.entity.cloud_application_instance",
+              "metadataValue": "{dt.entity.cloud_application_instance}"
+            },
+            {
+              "metadataKey": "dt.kubernetes.event.reason",
+              "metadataValue": "{dt.kubernetes.event.reason}"
+            },
+            {
+              "metadataKey": "status",
+              "metadataValue": "{status}"
+            },
+            {
+              "metadataKey": "dt.event.group_label",
+              "metadataValue": "{dt.kubernetes.event.reason}"
+            },
+            {
+              "metadataKey": "dt.kubernetes.event.involved_object.kind",
+              "metadataValue": "{dt.kubernetes.event.involved_object.kind}"
+            },
+            {
+              "metadataKey": "k8s.pod.name",
+              "metadataValue": "{k8s.pod.name}"
+            },
+            {
+              "metadataKey": "dt.kubernetes.workload.name",
+              "metadataValue": "{dt.kubernetes.workload.name}"
+            },
+            {
+              "metadataKey": "dt.kubernetes.event.message",
+              "metadataValue": "{content}"
+            },
+            {
+              "metadataKey": "dt.entity.cloud_application_namespace",
+              "metadataValue": "{dt.entity.cloud_application_namespace}"
+            },
+            {
+              "metadataKey": "dt.event.is_rootcause_relevant",
+              "metadataValue": "{dt.events.root_cause_relevant}"
+            },
+            {
+              "metadataKey": "dt.kubernetes.cluster.name",
+              "metadataValue": "{dt.kubernetes.cluster.name}"
+            },
+            {
+              "metadataKey": "k8s.namespace.name",
+              "metadataValue": "{k8s.namespace.name}"
+            },
+            {
+              "metadataKey": "dt.entity.kubernetes_node",
+              "metadataValue": "{dt.entity.kubernetes_node}"
+            },
+            {
+              "metadataKey": "dt.kubernetes.event.involved_object.name",
+              "metadataValue": "{dt.kubernetes.event.involved_object.name}"
+            },
+            {
+              "metadataKey": "dt.kubernetes.node.name",
+              "metadataValue": "{dt.kubernetes.node.name}"
+            },
+            {
+              "metadataKey": "dt.entity.kubernetes_cluster",
+              "metadataValue": "{dt.entity.kubernetes_cluster}"
+            },
+            {
+              "metadataKey": "dt.entity.cloud_application",
+              "metadataValue": "{dt.entity.cloud_application}"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "totalCount": 1,
+  "pageSize": 100
+}
