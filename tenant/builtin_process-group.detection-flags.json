@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "objectId": "vu9U3hXa3q0AAAABACVidWlsdGluOnByb2Nlc3MtZ3JvdXAuZGV0ZWN0aW9uLWZsYWdzAAZ0ZW5hbnQABnRlbmFudAAkZWQ0ZTlhYTItZWJkYy0zMmRhLTlkM2YtMmNlODg2ZmY2Nzk1vu9U3hXa3q0",
+      "value": {
+        "ignoreUniqueIdentifiers": true,
+        "useCatalinaBase": false,
+        "useDockerContainerName": false,
+        "autoDetectCassandraClusters": true,
+        "addNodeJsScriptName": true,
+        "autoDetectTibcoEngines": true,
+        "identifyJbossServerBySystemProperty": true,
+        "autoDetectWebMethodsIntegrationServer": true,
+        "autoDetectSpringBoot": true,
+        "autoDetectTibcoContainerEditionEngines": true,
+        "splitOracleDatabasePG": false,
+        "autoDetectWebSphereLibertyApplication": false,
+        "shortLivedProcessesMonitoring": true
+      }
+    }
+  ],
+  "totalCount": 1,
+  "pageSize": 100
+}
