@@ -1,0 +1,281 @@
+{
+  "items": [
+    {
+      "objectId": "vu9U3hXa3q0AAAABABpidWlsdGluOnJlc291cmNlLWF0dHJpYnV0ZQAGdGVuYW50AAZ0ZW5hbnQAJDI4ODNmNDlkLTQ5OTMtM2Q0Zi05MGRjLWIxNTNkYmQwOWViZL7vVN4V2t6t",
+      "value": {
+        "attributeKeys": [
+          {
+            "enabled": true,
+            "attributeKey": "os.description"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "os.type"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "os.version"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "host.type"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "host.image.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "telemetry.sdk.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "process.executable.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.cluster.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.statefulset.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.daemonset.uid"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "host.image.id"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "container.runtime"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.job.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.statefulset.uid"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "faas.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "os.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "telemetry.auto.version"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "container.image.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.deployment.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "host.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "host.id"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "process.command"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.cronjob.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "host.image.version"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "process.runtime.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "container.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "cloud.availability_zone"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.pod.uid"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "process.pid"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "container.image.tag"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "container.id"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "webengine.version"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.container.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "device.model.identifier"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.cronjob.uid"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.namespace.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.job.uid"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "process.runtime.description"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "process.executable.path"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "dt.entity.process_group_instance"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.container.restart_count"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "faas.version"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "faas.instance"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "faas.id"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "service.version"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.replicaset.uid"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.node.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "process.runtime.version"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.replicaset.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "dt.entity.host"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "faas.max_memory"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.daemonset.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "cloud.provider"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "webengine.description"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "webengine.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "cloud.region"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.deployment.uid"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "service.instance.id"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "host.arch"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "telemetry.sdk.version"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "cloud.platform"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.node.uid"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "telemetry.sdk.language"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "deployment.environment"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "service.namespace"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "k8s.pod.name"
+          },
+          {
+            "enabled": true,
+            "attributeKey": "device.model.name"
+          }
+        ]
+      }
+    }
+  ],
+  "totalCount": 1,
+  "pageSize": 100
+}
