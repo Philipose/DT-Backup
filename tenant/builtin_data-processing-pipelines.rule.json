@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": 404,
+    "message": "No schema with topic identifier 'builtin:data-processing-pipelines.rule'"
+  }
+}
